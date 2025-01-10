@@ -6,7 +6,7 @@ This project works with a dataset that can be downloaded from the provided link.
 
 ## Accessing the Dataset
 
-You can access the dataset from [this link](link-to-be-provided). Click the link to download the dataset to your computer.
+You can access the dataset from [this link]([link-to-be-provided](https://www.kaggle.com/datasets/robikscube/driving-video-with-object-tracking)). Click the link to download the dataset to your computer.
 
 ## Setup and Running
 
